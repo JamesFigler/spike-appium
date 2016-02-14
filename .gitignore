@@ -1,0 +1,16 @@
+.classpath
+.project
+.gradle/
+.idea/
+.DS_Store
+.vscode/
+
+typings/
+node_modules/
+build/
+vendor/
+bower_components/
+
+*.iml
+*.class
+*.log
